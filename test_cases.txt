@@ -1,0 +1,1 @@
+sudo sipp -sf full_dtmf_orig.xml 192.168.1.104 -i 192.168.1.104 -s 1012 -au 1001 -ap 5555 -aa -m 1 -l 1 -trace_err
